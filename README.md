@@ -2,7 +2,7 @@
 
 Pyrit is old, is outdated and it's still Python2 I am currently attempting to rewrite it from scratch, so thanks for all the stars but remember to keep an eye for Python3 version.
 
-# Pyrit #
+# Pyrit - modified for Cuda 11 & Ubuntu 20.04#
 
 ![Pyrit logo](https://github.com/JPaulMora/Pyrit/blob/master/Pyrit-logo.png)
 
